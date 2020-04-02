@@ -25,7 +25,9 @@ Dwi asmono is waiting for any information if any trouble happen when using this 
 # Dwi Asmono
 Fresh Graduate of Physics (Geophysics) Bachelor
 
-Mobile Phone,WhatsApp : [+62 823 7313 9191]
-Instagram & Twitter: @dwiasmono_
+Dwi Asmono :LinkedIn
+[+62 823 7313 9191] :Mobile Phone & WhatsApp 
+@dwiasmono_ :Instagram & Twitter 
+
 
 Email: asmonodwi@outlook.com; | Website: http://asmono.space/
