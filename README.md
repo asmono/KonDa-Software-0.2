@@ -1,5 +1,5 @@
-## Hello and Thank You,
-# Here is something you need to know about the KonDa Software.
+# Hello and Thank You,
+## Here is something you need to know about the KonDa Software.
 
 The KonDa software is made for increase time eficiency, Arrival data usage, and optimize the on going research. Arrival data is the earthquake data type which obtained from BMKG and ISC institution and also another geology and/or geophysics institution. The KonDa software converting the Arrival data from institutions format to be input data for LOTOS (Local Tomography Software).
 
@@ -9,10 +9,10 @@ KonDa version is made and still developed by Dwi asmono (asmonodwi@outlook.com).
 
 # KonDa Software 0.2 New Updates:
 This new updates bring simple file position and increase data quality.
-# 1. KonDa Software with new file organization.
+## 1. KonDa Software with new file organization.
 Folder file provided 3 different folder these are #01institution_data, #02temporary_table, and #03output_data.
 The first folder allow us to identify the data arrival format from certain institution. The second folder used to store temporary file such as table output which is resulted during data preparation. The third folder consist 4 file, dataARRVSTApilihan.txt is data arrival which is before converted to input data format for LOTOS so we can analyze any data picked to checking the data output. The log.txt is the record of our data conversion, then the other are data input for LOTOS.
-# 2. Changes on ISC phase columns used.
+## 2. Changes on ISC phase columns used.
 The last version (0.1) we are using REPPHASE column in the ISC data, and 
 We have found the lack phase of some data arrival in the REPPHASE columns in the ISC data arrival. Then as the alternative we check another column phase (ISCPHASE), and we found the complete phase with no lack phase of ISC data arrival. 
 
@@ -21,13 +21,9 @@ We have found the lack phase of some data arrival in the REPPHASE columns in the
 
 Dwi asmono is waiting for any information if any trouble happen when using this KonDa Software or any idea or advice about this KonDa Software.
 
-# Best Regards,
+## Best Regards,
 # Dwi Asmono
 Fresh Graduate of Physics (Geophysics) Bachelor
 
-Dwi Asmono :LinkedIn
-[+62 823 7313 9191] :Mobile Phone & WhatsApp 
-@dwiasmono_ :Instagram & Twitter 
-
-
+Dwi Asmono :LinkedIn  [+62 823 7313 9191] :Mobile Phone & WhatsApp  @dwiasmono_ :Instagram & Twitter 
 Email: asmonodwi@outlook.com; | Website: http://asmono.space/
